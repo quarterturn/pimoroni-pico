@@ -36,6 +36,8 @@ namespace pimoroni {
       set_font(&font6);
     } else if (name == "bitmap8") {
       set_font(&font8);
+    } else if (name == "bitmap11") {
+      set_font(&font11);
     } else if (name == "bitmap14_outline") {
       set_font(&font14_outline);
     } else {
